@@ -1,4 +1,3 @@
-# tf_opicm5
 libtensorflow_cc.so 测试工程。
 
 # 运行环境
