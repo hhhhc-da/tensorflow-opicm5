@@ -1,0 +1,1 @@
+bazel build --config=opt --jobs=6 --verbose_failures --disk_cache=/home/orangepi/Code/C++/cache //tensorflow:libtensorflow_cc.so //tensorflow:install_headers
