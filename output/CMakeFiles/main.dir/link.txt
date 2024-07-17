@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/mnist.cc.o -o main   -L/home/orangepi/Code/C++/tensorflow/lib  -Wl,-rpath,/home/orangepi/Code/C++/tensorflow/lib -lopencv_core -lopencv_imgcodecs -lopencv_highgui -ltensorflow_cc -ltensorflow_framework 
